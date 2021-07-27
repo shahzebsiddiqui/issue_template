@@ -7,10 +7,6 @@ assignees:
 body:
 - type: markdown
   value: "## Thank you for contributing to buildtest!"
-- type: markdown
-  attributes:
-    value: |
-      Thanks for taking the time to fill out this bug report.
 
 - type: textarea
   id: what-happened
