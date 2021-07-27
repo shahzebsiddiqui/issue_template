@@ -47,3 +47,16 @@ body:
       description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       render: shell  
 
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Reproduce Bug
+      description: "Please describe how to reproduce this bug."
+      value: |
+        1.
+        2.
+        3.
+        ...
+      render: bash
+    validations:
+      required: true
