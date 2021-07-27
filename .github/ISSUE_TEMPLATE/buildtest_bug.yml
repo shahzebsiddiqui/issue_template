@@ -6,4 +6,6 @@ assignees:
   - shahzebsiddiqui
 body:
   - type: markdown
-      value: "## Thank you for contributing to buildtest!"
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
