@@ -18,8 +18,8 @@ body:
       label: Bug Description
       description: Also tell us, what did you expect to happen?
       placeholder: Please provide a detailed description of the bug
-    validations:
-      required: true
+      validations:
+        required: true
 
   - type: dropdown
     id: version
