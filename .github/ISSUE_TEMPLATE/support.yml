@@ -41,7 +41,7 @@ body:
     validations:
       required: true
       
-- type: textarea
+  - type: textarea
     id: logs
     attributes:
       label: Relevant log output
